@@ -1,5 +1,5 @@
     #ao invés de criar uma classe de maneira estática, usamos parâmetros para permitir que,
-#ao criar a instâsncia da classe, seja enviado o título e o código (nesse caso)
+#ao criar a instância da classe, seja enviado o título e o código (nesse caso)
 
 class Livro():
     def __init__(self, titulo, isbn): #metodo construtor
